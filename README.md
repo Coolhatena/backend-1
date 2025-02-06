@@ -1,2 +1,2 @@
 # backend-1
-Project from the Backend 1 course
+Projects from the Backend 1 course
